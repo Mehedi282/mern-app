@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+input{
+  margin-top: 2%;
+}
+
+button{
+  margin-top: 2%;
+  color: white;
+  background-color: black;
+}
+.total{
+  width: 50%;
+  margin: auto;
+}
+
+.tpp{
+  width: 80%;
+  margin: auto;
+}
+
+.per{
+  width: 50%;
+  float: left;
+}
